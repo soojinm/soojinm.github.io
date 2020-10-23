@@ -1,0 +1,20 @@
+# Build settings
+markdown: kramdown
+
+# Theme settings
+theme: jekyll-theme-hydeout
+paginate: 5
+
+# Site settings
+title: Soo-Jin Moon
+description: "PhD Candidate<br/>Electrical and Computer Engineering<br/>Carnegie Mellon University"
+baseurl: "/~soojinm"
+url: "http://users.ece.cmu.edu/~soojinm/"
+
+# Social settings
+email: soojinm * A T * andrew.cmu.edu
+scholar_user: PjCpWYsAAAAJ
+cv_path: /assets/cv.pdf
+profile_photo_path: /assets/images/soojin.png
+
+google_analytics: UA-56658217-1 
