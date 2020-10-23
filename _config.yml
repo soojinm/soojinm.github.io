@@ -2,7 +2,7 @@
 markdown: kramdown
 
 # Theme settings
-theme: jekyll-theme-hydeout
+theme: jekyll-theme-cayman
 paginate: 5
 
 # Site settings
