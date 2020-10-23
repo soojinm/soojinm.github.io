@@ -1,0 +1,133 @@
+<!DOCCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+
+<title>Soo-Jin Moon, ECE, Carnegie Mellon University</title>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=iso-8859-1">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-56658217-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<link rel="stylesheet" type="text/css" href="./styles.css">
+
+</head>
+<body style="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); padding=20px"
+ alink="#ff0000" link="#0000ee" vlink="#551a8">
+<img style="width: 260px;" alt="Soo-Jin Moon"
+ src="soojin.png" align="left" hspace="10">
+<h1>Soo-Jin Moon</h1>
+<h2>Ph.D. Candidate <h2>
+<h3><a href="https://www.ece.cmu.edu/">Electrical and Computer Engineering</a><br>
+<a href="https://www.cmu.edu/"> Carnegie Mellon University</a></h3> 
+4720 Forbes Avenue, CIC 2224B<br>
+Carnegie Mellon University <br>
+Pittsburgh, PA 15213<br><br>
+soojinm *A-T* andrew dot cmu dot edu <br>
+<a href="http://ca.linkedin.com/pub/soo-jin-moon/2a/565/671">LinkedIn</a> &nbsp;<a href="./soojin-cv.pdf">CV</a>
+<br> <br>
+
+<p>I am a Ph.D. student in the ECE department at Carnegie Mellon University, where I am part of <a href="https://www.cylab.cmu.edu">Cylab</a>. 
+My research interest spans across network and systems security. I am fortunate to be advised by <a href="http://www.ece.cmu.edu/~vsekar">Vyas Sekar</a>.</p>
+<p>Prior to joining CMU, I received a BASc in <a href="https://uwaterloo.ca/electrical-computer-engineering/">Electrical Engineering</a> from <a href="https://uwaterloo.ca/">University of Waterloo</a>, ON, Canada. I also have worked in a number of different engineering and programming positions at a variety of organizations. </p> 
+<hr>
+
+<h2>News</h2>
+
+<li> Sep 2019: Paper accepted to HotNets 19  
+<li> Aug 2019: NetSMC paper accepted to NSDI 20  
+<li> July 2019: Honored to be selected as one of the 2019 Rising Stars in EECS <a href="https://publish.illinois.edu/rising-stars/">[link]</a>
+<li> Mar 2019: Presented Alembic in NSDI 19 <a href="https://www.youtube.com/watch?v=OhLMBjXUPpg">[talk video]</a>
+
+
+
+<h2>Publications</h2>
+<h3>Conference/Workshop Papers</h3>
+<li> <b> [USENIX NSDI 20] </b> <em> NetSMC: A Custom Symbolic Model Checker for Stateful Network Verification </em>   
+<br> Yifei Yuan, <u>Soo-Jin Moon</u>, Sahil Uppal, Limin Jia, Vyas Sekar 
+<br> (to appear in NSDI 2020)
+<li> <b> [HotNets 19] </b><em>Towards a Roadmap for Zero-Knowledge Network Analysis using Generative Adversarial Networks</em> 
+<br> Zinan Lin, <u>Soo-Jin Moon</u>, Carolina M. Zarate, Ritika Mulagalapalli, Sekar Kulandaivel, Giulia Fanti,  Vyas Sekar 
+<br> (to appear in HotNets 2019)
+<li> <b> [USENIX NSDI 19] </b> <em>Alembic: Automated Model Inference for Stateful Network Functions </em>   
+<br> <u>Soo-Jin Moon</u>, Jeffrey Helt, Yifei Yuan, Yves Bieri, Sujata Banerjee, Vyas Sekar, Wenfei Wu, Mihalis Yannakakis, Ying Zhang 
+<a href="./papers/alembic_nsdi19.pdf">[Paper]</a> <a href="./slide/alembic_nsdi19.pdf">[Slide]</a><a href="https://www.youtube.com/watch?v=OhLMBjXUPpg">[Talk Video]</a>
+
+<li> <b> [ACM CCS 15] </b> <em> Nomad: Mitigating Arbitrary Cloud Side Channels via Provider-Assisted Migration</em>   
+<br> <u>Soo-Jin Moon</u>,  Vyas Sekar, Michael K. Reiter 
+<a href="./papers/nomad_ccs2015.pdf">[Paper]</a> <a href="./slide/nomad_ccs_slide.pdf">[Slide]</a> <a href="./bib/nomad_ccs2015.bib">[BibTex]</a>
+<br><strong><font color="red">NSA Best Scientific Cybersecurity Paper, 2016</font></strong> <a href="https://www.nsa.gov/news-features/press-room/press-releases/2016/2016-cybersecurity-research-paper-winner.shtml">[link]</a>
+<br><strong><font color="red">CSAW Best Paper Award (2nd place)</font></strong> in Applied Cyber Security Research, 2015 <a href="https://csaw.engineering.nyu.edu/research/">[link]</a>
+
+<h3>Others</h3>
+<li> <b> [EuroDW 18] </b> <em> Re-thinking Network Security in the Presence of Unknown Network Elements</em> (co-located with EuroSys 18) 
+<br> Soo-Jin Moon <a href="http://conferences.inf.ed.ac.uk/EuroDW2018/slides/moon-soojin%20-%20Soo-Jin%20Moon.pdf">[Slide]</a>
+
+
+<h2>Education</h2>
+<b>Ph.D Candidate in Electrical and Computer Engineering,&nbsp;Carnegie Mellon University</b> (Aug. 2014 - present) <br>
+<b>BASc. in Electrical Engineering,&nbsp;University of Waterloo, ON, Canada.</b> (Sept. 2009 - May. 2014)<br>
+<li>Graduated on a Dean's Honour List with Distinction</li>
+
+
+<h2>Selected Honors and Awards</h2>
+<ul>
+  <li>Graduated on the Dean's Honours List with Distinction. 2014</li>
+  <li>Sandford Fleming Awards for Co-operative Proficiency on Graduation. 2014</li>
+  <li>NSERC - ISURA (The Natural Sciences and Engineering Research Council of Canada - Industrial Undegraduate Student Research Awards)</li>
+  <li>First Place in Waterloo Senior Engineering Design Competition. 2012</li>
+</ul>
+
+
+<h2>Internship</h2>
+<ul>
+<li>Hewlett-Packard Labs with <a href="https://research.vmware.com/researchers/sujata-banerjee">Sujata Banerjee</a> and <a href="http://zhangying.org/">Ying Zhang</a>, Summer 2016</li>
+</ul>
+
+<h3> Work Experiences prior to CMU </h3>
+<ul>
+<li>Digital Signal Processing Algorithm Developer, ON Semiconductor (2013/09 - 2013/12)</li>
+<li>Hardware Engineer, IGNIS Innovation (2013/01 - 2013/04)</li>
+<li>Device Model Developer (Timing), Altera Corp. (2012/05 - 2012/08)</li>
+<li>Software Developer, Canada Pension Plan Investment Board (2011/09 - 2011/12) </li>
+<li>Business Intelligence/SQL/.NET Developer, OpenText Corp. (2011/01 - 2011/04)</li>
+</ul>
+
+
+<h2>Graduate Coursework</h2>
+<ul>
+  <li>Spring 2017: CS 15-780 Graduate Artificial Intelligence (Ariel Procaccia and Zico Kolter)</li>
+  <li>Spring 2016: ECE 18-732 Secure Software Systems (Lujo Bauer)</li>
+  <li>Fall 2015: CS 15-712 Advanced and Distributed Operating Systems (Phil Gibbons)</li>
+  <li>Fall 2015: CS 15-853 Algorithms in the Real World (Guy Blelloch and Anupam Gupta)</li>
+  <li>Spring 2015: ECE 18-731 Network Security (Vyas Sekar)</li>
+  <li>Fall 2014: ECE 18-730 Introduction to Computer Security (Virgil D. Gligor)</li>
+  <li>Fall 2014: ECE 18-859K Software-Defined Networking and Network Function Virtualization (Vyas Sekar)</li>
+</ul>
+<h2>Teaching</h2>
+<ul>
+  <li>Teaching Assistant, Introduction to Computer Security<a href="https://www.andrew.cmu.edu/course/18-330/">(15/18-330)</a> 
+    CS/ECE, Carnegie Mellon University, Fall 2018</li>
+  <li>Teaching Assistant, Network Security <a href="https://users.ece.cmu.edu/~vsekar/Teaching/Spring16/18731/">(18-731)</a> 
+     ECE, Carnegie Mellon University, Spring 2016 </li>
+</ul>
+<h2>Professional Service</h2>
+<ul>
+  <li>Co-organizer, Cylab Security Student Seminar, Fall 2016 - </li>
+<p>I co-organize the Cylab Student Seminar with <a href="https://users.ece.cmu.edu/~mahmoods/">Mahmood Sharif</a> To schedule a talk, please contact me or him.</p>
+
+  <li>Judge, CSAW applied security research competition, NYU, 2016</li>
+</ul>
+<hr>
+<p><i><font color="#000000"><font size="-1">Last Updated on Jan. 2016</font></font></i></p>
+</body>
+</html>
+
+
+
