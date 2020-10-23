@@ -4,6 +4,8 @@
   venue: USENIX Security
   venue_link: https://www.usenix.org/conference/usenixsecurity21
   year: 2021
+  paper: ampmap_sec21.pdf
+
 
 - title: "NetSMC: A Custom Symbolic Model Checker for Stateful Network Verification"
   authors: Yifei Yuan, Soo-Jin Moon, Sahil Uppal, Limin Jia, Vyas Sekar 
@@ -11,13 +13,16 @@
   venue: USENIX NSDI
   venue_link: https://www.usenix.org/conference/nsdi20/
   year: 2020
+  paper: netsmc_nsdi20.pdf
+  talk_video: https://www.youtube.com/watch?v=2WV1TDfF11E&ab_channel=USENIX
 
-- title: "Towards a Roadmap for Zero-Knowledge Network Analysis using Generative Adversarial Networks"
+- title: "Towards Oblivious Network Analysis using Generative Adversarial Networks"
   authors: Zinan Lin, Soo-Jin Moon, Carolina M. Zarate, Ritika Mulagalapalli, Sekar Kulandaivel, Giulia Fanti, Vyas Sekar
   venue_prefix: "In Proc. "
   venue: HotNets 
   venue_link: http://conferences.sigcomm.org/hotnets/2019/index.html
   year: 2019
+  paper_link: https://dl.acm.org/doi/10.1145/3365609.3365854
 
 - title: "Alembic: Automated Model Inference for Stateful Network Functions"
   authors: Soo-Jin Moon, Jeffrey Helt, Yifei Yuan, Yves Bieri, Sujata Banerjee, Vyas Sekar, Wenfei Wu, Mihalis Yannakakis, Ying Zhang

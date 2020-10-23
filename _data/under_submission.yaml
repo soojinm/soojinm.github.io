@@ -1,2 +1,5 @@
-- title: "Accurately Measuring Global Risk of Amplification Attacks using AmpMap"
-  authors: Soo-Jin Moon, Yucheng Yin, Rahul Sharma, Yifei Yuan, Vyas Sekar 
+- title: "Accurately Measuring Global Risk of Amplification Attacks using AmpMap "
+  authors: Soo-Jin Moon, Yucheng Yin, Rahul Sharma, Yifei Yuan,  Jonathan M. Spring, Vyas Sekar 
+  paper: ampmap_extended_tech_report.pdf
+  venue: Technical Report, CMU-CyLab-19-004
+  year: 2020
