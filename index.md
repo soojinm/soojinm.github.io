@@ -46,6 +46,8 @@ Prior to joining CMU, I received a BASc in Electrical Engineering from [Universi
 {% if pub.paper %}[[Paper]]({{ papers_dir | prepend: site.baseurl | append: pub.paper }})
 {% elsif pub.paper_link %}[[Paper]]({{ pub.paper_link}}){% endif %}
 {%- if pub.slides %}[[Slides]]({{ slides_dir | prepend: site.baseurl | append: pub.slides }}){% endif %}
+{%- if pub.site %}[[Website]]({{pub.site}}){% endif %}
+{%- if pub.code %}[[Code]]({{pub.code}}){% endif %}
 {%- if pub.talk_video %}[[Talk Video]]({{ pub.talk_video}}){% endif %}
 {% if pub.award1 %} **<span style="color:red">{{ pub.award1}}</span>** [[Link]]({{pub.award1link}}){:target="\_blank"} {% endif %} 
 {% if pub.award2 %} **<span style="color:red">{{ pub.award2}}</span>** [[Link]]({{pub.award2link}}){:target="\_blank"} {% endif %} 
