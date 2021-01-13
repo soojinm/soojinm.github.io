@@ -8,7 +8,8 @@ paginate: 5
 
 # Site settings
 title: Soo-Jin Moon
-description: "PhD, Electrical and Computer Engineering<br/>Carnegie Mellon University"
+description: "NetInfra @ Google <br> Ph.D. Carnegie Mellon University"
+  #"PhD, Electrical and Computer Engineering<br/>Carnegie Mellon University"
 #baseurl: "/~soojinm"
 #baseurl: "/"
 #~soojinm"
