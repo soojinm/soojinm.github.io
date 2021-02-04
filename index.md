@@ -2,7 +2,7 @@
 layout: index
 title: Home
 ---
-I defended my thesis, [Practical Black-Box Analysis for Network Functions and Services]({{ "/assets/papers/" | prepend: site.baseurl | append: "soojin_thesis.com" }}), in September 2020 and have joined the [Network Infrastructure](https://research.google/teams/network-systems/) at Google. 
+I defended my thesis, [Practical Black-Box Analysis for Network Functions and Services]({{ "/assets/papers/" | prepend: site.baseurl | append: "soojin_thesis.pdf" }}), in September 2020 and have joined the [Network Infrastructure](https://research.google/teams/network-systems/) at Google. 
 
 I received my Ph.D. in Electrical and Computer Engineering at Carnegie Mellon University (CMU), advised by [Vyas Sekar](http://users.ece.cmu.edu/~vsekar/){:target="\_blank"}, 
 and was part of [CyLab](https://www.cylab.cmu.edu/){:target="\_blank"}, CMU’s Security and Privacy Institute. Before starting at CMU in 2014, I earned bachelor’s degree in Electrical Engineering from the [University of Waterloo](https://uwaterloo.ca/){:target="\_blank"}, Canada.
