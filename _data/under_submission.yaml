@@ -1,3 +1,9 @@
+- title: "Automatic Discovery of Evasion Attacks Against Stateful Firewalls"
+  authors: Soo-Jin Moon, Yves Bieri, Ruben Martins, Vyas Sekar 
+  venue: Technical Report, CMU-CyLab-21-001
+  paper_link: https://cylab.cmu.edu/_files/pdfs/tech_reports/CMUCyLab21001.pdf
+  year: 2021
+
 - title: "Accurately Measuring Global Risk of Amplification Attacks using AmpMap "
   authors: Soo-Jin Moon, Yucheng Yin, Rahul Sharma, Yifei Yuan,  Jonathan M. Spring, Vyas Sekar 
   venue: Technical Report, CMU-CyLab-19-004
