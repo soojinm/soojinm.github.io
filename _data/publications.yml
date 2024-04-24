@@ -2,7 +2,8 @@
   authors: Soo-Jin Moon, Milind Srivastava, Yves Bieri, Ruben Martins, Vyas Sekar
   venue_prefix: "In Proc. "
   venue: IEEE Security & Privacy
-  venue_link: https://sp2024.ieee-security.org/
+  venue_link: https://sp2024.ieee-security.org
+  paper_link: https://www.computer.org/csdl/proceedings-article/sp/2024/313000a144/1Ub242nYFoY
   year: 2024
   
 - title: "Accurately Measuring Global Risk of Amplification Attacks using AmpMap"
