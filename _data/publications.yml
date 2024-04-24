@@ -1,6 +1,13 @@
+- title: "Pryde: A Modular Generalizable Workflow for Uncovering Evasion Attacks Against Stateful Firewall Deployments"
+  authors: Soo-Jin Moon, Milind Srivastava, Yves Bieri, Ruben Martins, Vyas Sekar
+  venue_prefix: "In Proc. "
+  venue: IEEE Security & Privacy
+  venue_link: https://sp2024.ieee-security.org/
+  year: 2024
+  
 - title: "Accurately Measuring Global Risk of Amplification Attacks using AmpMap"
   authors: Soo-Jin Moon, Yucheng Yin, Rahul Anand Sharma, Yifei Yuan, Jonathan M. Spring, Vyas Sekar
-  venue_prefix: "To appear in "
+  venue_prefix: "In Proc. "
   venue: USENIX Security
   venue_link: https://www.usenix.org/conference/usenixsecurity21
   year: 2021
